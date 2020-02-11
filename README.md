@@ -22,13 +22,3 @@ Materials for MASAIL RL Project Team
 
 * **Qianbo Yin (Grayson)** - *Initial work* 
 With the amazing admin board of MASIL 2020 [contributors](https://github.com/ygrayson/rl-workgroup/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
