@@ -21,4 +21,6 @@ Materials for MASAIL RL Project Team
 ## Authors
 
 * **Qianbo Yin (Grayson)** 
-With the amazing admin board of MASIL 2020 [contributors](https://github.com/ygrayson/rl-workgroup/contributors) who participated in this project.
+With the amazing admin board of MASIL 2020 
+[contributors](https://github.com/ygrayson/rl-workgroup/contributors) who participated in this project.
+University of Michigan, Ann Arbor
